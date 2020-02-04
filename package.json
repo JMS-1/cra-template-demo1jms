@@ -1,11 +1,11 @@
 {
-    "name": "cra-template-she11sh0cked",
+    "name": "cra-template-shellshocked",
     "version": "0.1.0",
-    "description": "The base template for she11sh0cked.",
+    "description": "The base template for shellshocked.",
     "main": "template.json",
     "repository": {
         "type": "git",
-        "url": "https://github.com/she11sh0cked/cra-template-she11sh0cked.git"
+        "url": "https://github.com/shellshocked/cra-template-shellshocked.git"
     },
     "license": "MIT",
     "engines": {
