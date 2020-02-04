@@ -52,6 +52,7 @@
     "extends": "@insynergie"
   },
   "homepage": ".",
+  "name": "app",
   "prettier": "@insynergie/prettier-config",
   "private": true,
   "scripts": {
