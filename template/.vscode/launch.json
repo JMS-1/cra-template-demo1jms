@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "linux": {
+                "runtimeExecutable": "/snap/bin/chromium"
+            },
+            "name": "Debug",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://${config:iSxS.debug.server}:3000/",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

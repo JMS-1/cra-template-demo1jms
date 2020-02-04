@@ -1,0 +1,18 @@
+{
+    "name": "cra-template-she11sh0cked",
+    "version": "0.1.0",
+    "description": "The base template for she11sh0cked.",
+    "main": "template.json",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/she11sh0cked/cra-template-she11sh0cked.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=8.10"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}

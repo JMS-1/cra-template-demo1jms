@@ -1,0 +1,22 @@
+{
+  "base": "semantic\\",
+  "paths": {
+    "source": {
+      "config": "../src/styles/themes/default/config.json",
+      "definitions": "src/definitions/",
+      "site": "../src/styles/site/",
+      "themes": "../src/styles/themes/"
+    },
+    "output": {
+      "packaged": "../public/semantic/default/",
+      "uncompressed": "dist/components/",
+      "compressed": "dist/components/",
+      "themes": "../public/semantic/"
+    },
+    "clean": "dist/"
+  },
+  "permission": false,
+  "autoInstall": false,
+  "rtl": false,
+  "version": "2.8.3"
+}

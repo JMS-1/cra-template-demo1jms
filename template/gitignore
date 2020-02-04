@@ -1,0 +1,5 @@
+/node_modules
+/build
+/semantic
+/semantic.json
+/yarn-*
